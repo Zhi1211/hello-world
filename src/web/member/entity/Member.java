@@ -9,4 +9,5 @@ public class Member {
 	public String nickname;
 	public Boolean pass;
 	public Timestamp createTime;
+	public String sessionId;
 }
